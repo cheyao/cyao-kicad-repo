@@ -1,0 +1,17 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "name": "Cyao (cheyao)",
+        "contact": {
+            "discord": "https://discord.gg/mGtHtz94pw",
+            "web": "https://github.com/cheyao/ckl"
+        }
+    },
+    "name": "cyao KiCad repository",
+    "packages": {
+        "sha256": "4eeabd73068346f2c8653a04b5429b1acdff27758f6e38640ae2f6f53c3dba8f",
+        "update_time_utc": "2026-03-22 12:18:14",
+        "update_timestamp": 1774181894,
+        "url": "https://github.com/cheyao/cyao-kicad-repo/raw/main/packages.json"
+    }
+}
