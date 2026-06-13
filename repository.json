@@ -9,9 +9,9 @@
     },
     "name": "cyao KiCad repository",
     "packages": {
-        "sha256": "6de90f37d6918d8d7b1c224b63945e55af6fb9e11a5a584669f49574886b9e41",
-        "update_time_utc": "2026-06-11 17:13:41",
-        "update_timestamp": 1781198021,
+        "sha256": "1fd67990d551c466540e392726e0984d4e97d3eefa92c61a741807cc9eda4543",
+        "update_time_utc": "2026-06-13 11:06:16",
+        "update_timestamp": 1781348776,
         "url": "https://github.com/cheyao/cyao-kicad-repo/raw/main/packages.json"
     }
 }
