@@ -79,6 +79,15 @@
                     "download_size": 17109304,
                     "download_url": "https://github.com/cheyao/ckl/releases/download/2026.11.23/KiCAD-PCM-2026.11.23.zip",
                     "install_size": 99284748
+                },
+                {
+                    "version": "2026.11.24",
+                    "status": "testing",
+                    "kicad_version": "10.0",
+                    "download_sha256": "b0579a2ae462bef1d354c51f9e89e8d27cf9371f788dafa7671addb53c7b8c31",
+                    "download_size": 17532065,
+                    "download_url": "https://github.com/cheyao/ckl/releases/download/2026.11.24/KiCAD-PCM-2026.11.24.zip",
+                    "install_size": 101734876
                 }
             ]
         }
